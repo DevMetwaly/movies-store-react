@@ -1,0 +1,19 @@
+.table td{
+    text-align: left;
+}
+.table th{
+    text-align: left;
+}
+
+.btn-primary-outline {
+    background-color: transparent !important;
+    border-color: #ccc !important;
+    border:0 !important;
+}
+
+.btn-primary-outline:focus {
+    text-decoration: none !important;
+  outline:none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
